@@ -1,0 +1,6 @@
+name: mruby-netdbinfo
+description: Netdbinfo class
+author: rhykw
+website: https://github.com/rhykw/mruby-netdbinfo
+protocol: git
+repository: https://github.com/rhykw/mruby-netdbinfo.git
